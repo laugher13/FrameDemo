@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class UITest : MonoBehaviour {
+public class UI_Loading : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
