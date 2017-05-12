@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class UIManager : ManagerBase
 {
@@ -15,4 +16,6 @@ public class UIManager : ManagerBase
             MsgCenter.Instance.SendMsg(msg);
         }
     }
+
+
 }

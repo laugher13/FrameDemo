@@ -45,7 +45,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Frame\Common\Singleton.cs" />
      <Compile Include="Assets\Scripts\Frame\FrameTools.cs" />
+     <Compile Include="Assets\Scripts\Frame\Manager\MsgCenter.cs" />
+     <Compile Include="Assets\Scripts\Frame\Manager\UIManager.cs" />
+     <Compile Include="Assets\Scripts\Frame\ManagerBase.cs" />
+     <Compile Include="Assets\Scripts\Frame\MonoBase.cs" />
      <Compile Include="Assets\Scripts\Frame\MsgBase.cs" />
      <Compile Include="Assets\Scripts\Pattern\AgencyPattern.cs" />
      <Compile Include="Assets\Scripts\Pattern\BuilderPattern.cs" />
